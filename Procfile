@@ -1,1 +1,1 @@
-web: java -cp target/dependency/*:target/classes csc174project.Flowershop.App
+web: java -jar target/flowershop.jar
