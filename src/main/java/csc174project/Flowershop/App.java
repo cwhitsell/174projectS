@@ -10,6 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
+         System.setProperty("java.awt.headless", "false");
     	 JFrame frame = new JFrame("Hello World Java Swing");
 
          // set frame site
