@@ -1,1 +1,1 @@
-web: java -jar target/Flowershop-0.0.1-SNAPSHOT.jar
+web: java -cp target/dependency/*:target/classes csc174project.Flowershop.Flowershop
